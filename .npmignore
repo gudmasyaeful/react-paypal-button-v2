@@ -1,6 +1,0 @@
-node_modules
-example
-.babelrc
-.eslintrc.json
-jest.config.js
-webpack.config.js
